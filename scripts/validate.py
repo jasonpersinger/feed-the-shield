@@ -144,7 +144,7 @@ def validate_one_feed(
     for attempt in range(1, retries + 2):
         try:
             status, content_type, content = fetch_feed(ref, timeout)
-            if status != 200:
+            if not 200 <= status <= 299:
                 errors = [f"{label}: HTTP {status}"]
                 continue
             feed_type, item_count, newest = parse_feed(content)
