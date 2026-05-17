@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>NFL News Feeds for FreshRSS - Flat</title>
+  </head>
+  <body>
+    <outline text="NFL" title="NFL">
+      <outline type="rss" text="Arizona Cardinals Official News" title="Arizona Cardinals Official News" xmlUrl="https://www.azcardinals.com/rss/news" htmlUrl="https://www.azcardinals.com/news/" />
+      <outline type="rss" text="Atlanta Falcons Official News" title="Atlanta Falcons Official News" xmlUrl="https://www.atlantafalcons.com/rss/news" htmlUrl="https://www.atlantafalcons.com/news/" />
+      <outline type="rss" text="Baltimore Ravens Official News" title="Baltimore Ravens Official News" xmlUrl="https://www.baltimoreravens.com/rss/news" htmlUrl="https://www.baltimoreravens.com/news/" />
+      <outline type="rss" text="Buffalo Bills Official News" title="Buffalo Bills Official News" xmlUrl="https://www.buffalobills.com/rss/news" htmlUrl="https://www.buffalobills.com/news/" />
+      <outline type="rss" text="Carolina Panthers Official News" title="Carolina Panthers Official News" xmlUrl="https://www.panthers.com/rss/news" htmlUrl="https://www.panthers.com/news/" />
+      <outline type="rss" text="Chicago Bears Official News" title="Chicago Bears Official News" xmlUrl="https://www.chicagobears.com/rss/news" htmlUrl="https://www.chicagobears.com/news/" />
+      <outline type="rss" text="Cincinnati Bengals Official News" title="Cincinnati Bengals Official News" xmlUrl="https://www.bengals.com/rss/news" htmlUrl="https://www.bengals.com/news/" />
+      <outline type="rss" text="Cleveland Browns Official News" title="Cleveland Browns Official News" xmlUrl="https://www.clevelandbrowns.com/rss/news" htmlUrl="https://www.clevelandbrowns.com/news/" />
+      <outline type="rss" text="Dallas Cowboys Official News" title="Dallas Cowboys Official News" xmlUrl="https://www.dallascowboys.com/rss/news" htmlUrl="https://www.dallascowboys.com/news/" />
+      <outline type="rss" text="Denver Broncos Official News" title="Denver Broncos Official News" xmlUrl="https://www.denverbroncos.com/rss/news" htmlUrl="https://www.denverbroncos.com/news/" />
+      <outline type="rss" text="Detroit Lions Official News" title="Detroit Lions Official News" xmlUrl="https://www.detroitlions.com/rss/news" htmlUrl="https://www.detroitlions.com/news/" />
+      <outline type="rss" text="Green Bay Packers Official News" title="Green Bay Packers Official News" xmlUrl="https://www.packers.com/rss/news" htmlUrl="https://www.packers.com/news/" />
+      <outline type="rss" text="Houston Texans Official News" title="Houston Texans Official News" xmlUrl="https://www.houstontexans.com/rss/news" htmlUrl="https://www.houstontexans.com/news/" />
+      <outline type="rss" text="Indianapolis Colts Official News" title="Indianapolis Colts Official News" xmlUrl="https://www.colts.com/rss/news" htmlUrl="https://www.colts.com/news/" />
+      <outline type="rss" text="Jacksonville Jaguars Official News" title="Jacksonville Jaguars Official News" xmlUrl="https://www.jaguars.com/rss/news" htmlUrl="https://www.jaguars.com/news/" />
+      <outline type="rss" text="Kansas City Chiefs Official News" title="Kansas City Chiefs Official News" xmlUrl="https://www.chiefs.com/rss/news" htmlUrl="https://www.chiefs.com/news/" />
+      <outline type="rss" text="Las Vegas Raiders Official News" title="Las Vegas Raiders Official News" xmlUrl="https://www.raiders.com/rss/news" htmlUrl="https://www.raiders.com/news/" />
+      <outline type="rss" text="Los Angeles Chargers Official News" title="Los Angeles Chargers Official News" xmlUrl="https://www.chargers.com/rss/news" htmlUrl="https://www.chargers.com/news/" />
+      <outline type="rss" text="Los Angeles Rams Official News" title="Los Angeles Rams Official News" xmlUrl="https://www.therams.com/rss/news" htmlUrl="https://www.therams.com/news/" />
+      <outline type="rss" text="Miami Dolphins Official News" title="Miami Dolphins Official News" xmlUrl="https://www.miamidolphins.com/rss/news" htmlUrl="https://www.miamidolphins.com/news/" />
+      <outline type="rss" text="Minnesota Vikings Official News" title="Minnesota Vikings Official News" xmlUrl="https://www.vikings.com/rss/news" htmlUrl="https://www.vikings.com/news/" />
+      <outline type="rss" text="New England Patriots Official News" title="New England Patriots Official News" xmlUrl="https://www.patriots.com/rss/news" htmlUrl="https://www.patriots.com/news/" />
+      <outline type="rss" text="New Orleans Saints Official News" title="New Orleans Saints Official News" xmlUrl="https://www.neworleanssaints.com/rss/news" htmlUrl="https://www.neworleanssaints.com/news/" />
+      <outline type="rss" text="New York Giants Official News" title="New York Giants Official News" xmlUrl="https://www.giants.com/rss/news" htmlUrl="https://www.giants.com/news/" />
+      <outline type="rss" text="New York Jets Official News" title="New York Jets Official News" xmlUrl="https://www.newyorkjets.com/rss/news" htmlUrl="https://www.newyorkjets.com/news/" />
+      <outline type="rss" text="Philadelphia Eagles Official News" title="Philadelphia Eagles Official News" xmlUrl="https://www.philadelphiaeagles.com/rss/news" htmlUrl="https://www.philadelphiaeagles.com/news/" />
+      <outline type="rss" text="Pittsburgh Steelers Official News" title="Pittsburgh Steelers Official News" xmlUrl="https://www.steelers.com/rss/news" htmlUrl="https://www.steelers.com/news/" />
+      <outline type="rss" text="San Francisco 49ers Official News" title="San Francisco 49ers Official News" xmlUrl="https://www.49ers.com/rss/news" htmlUrl="https://www.49ers.com/news/" />
+      <outline type="rss" text="Seattle Seahawks Official News" title="Seattle Seahawks Official News" xmlUrl="https://www.seahawks.com/rss/news" htmlUrl="https://www.seahawks.com/news/" />
+      <outline type="rss" text="Tampa Bay Buccaneers Official News" title="Tampa Bay Buccaneers Official News" xmlUrl="https://www.buccaneers.com/rss/news" htmlUrl="https://www.buccaneers.com/news/" />
+      <outline type="rss" text="Tennessee Titans Official News" title="Tennessee Titans Official News" xmlUrl="https://www.tennesseetitans.com/rss/news" htmlUrl="https://www.tennesseetitans.com/news/" />
+      <outline type="rss" text="Washington Commanders Official News" title="Washington Commanders Official News" xmlUrl="https://www.commanders.com/rss/news" htmlUrl="https://www.commanders.com/news/" />
+      <outline type="rss" text="ESPN NFL" title="ESPN NFL" xmlUrl="https://www.espn.com/espn/rss/nfl/news" htmlUrl="https://www.espn.com/nfl/" />
+      <outline type="rss" text="CBS Sports NFL" title="CBS Sports NFL" xmlUrl="https://www.cbssports.com/rss/headlines/nfl/" htmlUrl="https://www.cbssports.com/nfl/" />
+      <outline type="rss" text="Yahoo Sports NFL" title="Yahoo Sports NFL" xmlUrl="https://sports.yahoo.com/nfl/rss/" htmlUrl="https://sports.yahoo.com/nfl/" />
+      <outline type="rss" text="FOX Sports NFL" title="FOX Sports NFL" xmlUrl="https://api.foxsports.com/v2/content/optimized-rss?partnerKey=MB0Wehpmuj2lUhuRhQaafhBjAJqaPU244mlTDK1i&amp;size=30&amp;tags=fs%2Fnfl" htmlUrl="https://www.foxsports.com/nfl" />
+      <outline type="rss" text="SB Nation NFL" title="SB Nation NFL" xmlUrl="https://www.sbnation.com/rss/nfl/index.xml" htmlUrl="https://www.sbnation.com/nfl" />
+      <outline type="rss" text="ProFootballTalk" title="ProFootballTalk" xmlUrl="https://www.nbcsports.com/profootballtalk.rss" htmlUrl="https://www.nbcsports.com/nfl/profootballtalk" />
+      <outline type="rss" text="PFT Rumor Mill" title="PFT Rumor Mill" xmlUrl="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill.rss" htmlUrl="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill" />
+      <outline type="rss" text="Pro Football Rumors" title="Pro Football Rumors" xmlUrl="https://www.profootballrumors.com/feed" htmlUrl="https://www.profootballrumors.com/" />
+      <outline type="rss" text="Over the Cap" title="Over the Cap" xmlUrl="https://overthecap.com/feed" htmlUrl="https://overthecap.com/" />
+      <outline type="rss" text="Rotoworld Football Player News" title="Rotoworld Football Player News" xmlUrl="https://www.nbcsports.com/fantasy/football/player-news.rss" htmlUrl="https://www.nbcsports.com/fantasy/football/player-news" />
+      <outline type="rss" text="RotoWire NFL News" title="RotoWire NFL News" xmlUrl="https://www.rotowire.com/rss/news.php?sport=NFL" htmlUrl="https://www.rotowire.com/football/" />
+      <outline type="rss" text="RotoBaller NFL" title="RotoBaller NFL" xmlUrl="https://www.rotoballer.com/category/nfl/feed" htmlUrl="https://www.rotoballer.com/category/nfl" />
+      <outline type="rss" text="FFToday News" title="FFToday News" xmlUrl="https://www.fftoday.com/rss/news.xml" htmlUrl="https://www.fftoday.com/" />
+      <outline type="rss" text="RotoViz" title="RotoViz" xmlUrl="https://www.rotoviz.com/feed/" htmlUrl="https://www.rotoviz.com/" />
+      <outline type="rss" text="PlayerProfiler" title="PlayerProfiler" xmlUrl="https://www.playerprofiler.com/feed/" htmlUrl="https://www.playerprofiler.com/articles/" />
+      <outline type="rss" text="Dynasty League Football" title="Dynasty League Football" xmlUrl="https://dynastyleaguefootball.com/feed/" htmlUrl="https://dynastyleaguefootball.com/" />
+      <outline type="rss" text="Draft Countdown" title="Draft Countdown" xmlUrl="https://www.draftcountdown.com/feed/" htmlUrl="https://www.draftcountdown.com/" />
+      <outline type="rss" text="NFL Draft Diamonds" title="NFL Draft Diamonds" xmlUrl="https://nfldraftdiamonds.com/feed/" htmlUrl="https://nfldraftdiamonds.com/" />
+      <outline type="rss" text="WalterFootball" title="WalterFootball" xmlUrl="https://walterfootball.com/feed" htmlUrl="https://walterfootball.com/" />
+      <outline type="rss" text="PFF" title="PFF" xmlUrl="https://www.pff.com/feed" htmlUrl="https://www.pff.com/nfl" />
+      <outline type="rss" text="Sharp Football Analysis" title="Sharp Football Analysis" xmlUrl="https://www.sharpfootballanalysis.com/feed/" htmlUrl="https://www.sharpfootballanalysis.com/" />
+      <outline type="rss" text="The 33rd Team" title="The 33rd Team" xmlUrl="https://www.the33rdteam.com/feed/" htmlUrl="https://www.the33rdteam.com/" />
+      <outline type="rss" text="Revenge of the Birds" title="Revenge of the Birds" xmlUrl="https://www.revengeofthebirds.com/rss/current.xml" htmlUrl="https://www.revengeofthebirds.com/" />
+      <outline type="rss" text="The Falcoholic" title="The Falcoholic" xmlUrl="https://www.thefalcoholic.com/rss/current.xml" htmlUrl="https://www.thefalcoholic.com/" />
+      <outline type="rss" text="Baltimore Beatdown" title="Baltimore Beatdown" xmlUrl="https://www.baltimorebeatdown.com/rss/current.xml" htmlUrl="https://www.baltimorebeatdown.com/" />
+      <outline type="rss" text="Buffalo Rumblings" title="Buffalo Rumblings" xmlUrl="https://www.buffalorumblings.com/rss/current.xml" htmlUrl="https://www.buffalorumblings.com/" />
+      <outline type="rss" text="Cat Scratch Reader" title="Cat Scratch Reader" xmlUrl="https://www.catscratchreader.com/rss/current.xml" htmlUrl="https://www.catscratchreader.com/" />
+      <outline type="rss" text="Windy City Gridiron" title="Windy City Gridiron" xmlUrl="https://www.windycitygridiron.com/rss/current.xml" htmlUrl="https://www.windycitygridiron.com/" />
+      <outline type="rss" text="Cincy Jungle" title="Cincy Jungle" xmlUrl="https://www.cincyjungle.com/rss/current.xml" htmlUrl="https://www.cincyjungle.com/" />
+      <outline type="rss" text="Dawgs By Nature" title="Dawgs By Nature" xmlUrl="https://www.dawgsbynature.com/rss/current.xml" htmlUrl="https://www.dawgsbynature.com/" />
+      <outline type="rss" text="Blogging The Boys" title="Blogging The Boys" xmlUrl="https://www.bloggingtheboys.com/rss/current.xml" htmlUrl="https://www.bloggingtheboys.com/" />
+      <outline type="rss" text="Mile High Report" title="Mile High Report" xmlUrl="https://www.milehighreport.com/rss/current.xml" htmlUrl="https://www.milehighreport.com/" />
+      <outline type="rss" text="Pride of Detroit" title="Pride of Detroit" xmlUrl="https://www.prideofdetroit.com/rss/current.xml" htmlUrl="https://www.prideofdetroit.com/" />
+      <outline type="rss" text="Acme Packing Company" title="Acme Packing Company" xmlUrl="https://www.acmepackingcompany.com/rss/current.xml" htmlUrl="https://www.acmepackingcompany.com/" />
+      <outline type="rss" text="Battle Red Blog" title="Battle Red Blog" xmlUrl="https://www.battleredblog.com/rss/current.xml" htmlUrl="https://www.battleredblog.com/" />
+      <outline type="rss" text="Stampede Blue" title="Stampede Blue" xmlUrl="https://www.stampedeblue.com/rss/current.xml" htmlUrl="https://www.stampedeblue.com/" />
+      <outline type="rss" text="Big Cat Country" title="Big Cat Country" xmlUrl="https://www.bigcatcountry.com/rss/current.xml" htmlUrl="https://www.bigcatcountry.com/" />
+      <outline type="rss" text="Arrowhead Pride" title="Arrowhead Pride" xmlUrl="https://www.arrowheadpride.com/rss/current.xml" htmlUrl="https://www.arrowheadpride.com/" />
+      <outline type="rss" text="Silver and Black Pride" title="Silver and Black Pride" xmlUrl="https://www.silverandblackpride.com/rss/current.xml" htmlUrl="https://www.silverandblackpride.com/" />
+      <outline type="rss" text="Bolts From The Blue" title="Bolts From The Blue" xmlUrl="https://www.boltsfromtheblue.com/rss/current.xml" htmlUrl="https://www.boltsfromtheblue.com/" />
+      <outline type="rss" text="Turf Show Times" title="Turf Show Times" xmlUrl="https://www.turfshowtimes.com/rss/current.xml" htmlUrl="https://www.turfshowtimes.com/" />
+      <outline type="rss" text="The Phinsider" title="The Phinsider" xmlUrl="https://www.thephinsider.com/rss/current.xml" htmlUrl="https://www.thephinsider.com/" />
+      <outline type="rss" text="Daily Norseman" title="Daily Norseman" xmlUrl="https://www.dailynorseman.com/rss/current.xml" htmlUrl="https://www.dailynorseman.com/" />
+      <outline type="rss" text="Pats Pulpit" title="Pats Pulpit" xmlUrl="https://www.patspulpit.com/rss/current.xml" htmlUrl="https://www.patspulpit.com/" />
+      <outline type="rss" text="Canal Street Chronicles" title="Canal Street Chronicles" xmlUrl="https://www.canalstreetchronicles.com/rss/current.xml" htmlUrl="https://www.canalstreetchronicles.com/" />
+      <outline type="rss" text="Big Blue View" title="Big Blue View" xmlUrl="https://www.bigblueview.com/rss/current.xml" htmlUrl="https://www.bigblueview.com/" />
+      <outline type="rss" text="Gang Green Nation" title="Gang Green Nation" xmlUrl="https://www.ganggreennation.com/rss/current.xml" htmlUrl="https://www.ganggreennation.com/" />
+      <outline type="rss" text="Bleeding Green Nation" title="Bleeding Green Nation" xmlUrl="https://www.bleedinggreennation.com/rss/current.xml" htmlUrl="https://www.bleedinggreennation.com/" />
+      <outline type="rss" text="Behind the Steel Curtain" title="Behind the Steel Curtain" xmlUrl="https://www.behindthesteelcurtain.com/rss/current.xml" htmlUrl="https://www.behindthesteelcurtain.com/" />
+      <outline type="rss" text="Niners Nation" title="Niners Nation" xmlUrl="https://www.ninersnation.com/rss/current.xml" htmlUrl="https://www.ninersnation.com/" />
+      <outline type="rss" text="Field Gulls" title="Field Gulls" xmlUrl="https://www.fieldgulls.com/rss/current.xml" htmlUrl="https://www.fieldgulls.com/" />
+      <outline type="rss" text="Bucs Nation" title="Bucs Nation" xmlUrl="https://www.bucsnation.com/rss/current.xml" htmlUrl="https://www.bucsnation.com/" />
+      <outline type="rss" text="Music City Miracles" title="Music City Miracles" xmlUrl="https://www.musiccitymiracles.com/rss/current.xml" htmlUrl="https://www.musiccitymiracles.com/" />
+      <outline type="rss" text="Hogs Haven" title="Hogs Haven" xmlUrl="https://www.hogshaven.com/rss/current.xml" htmlUrl="https://www.hogshaven.com/" />
+      <outline type="rss" text="Steelers Depot" title="Steelers Depot" xmlUrl="https://www.steelersdepot.com/feed/" htmlUrl="https://www.steelersdepot.com/" />
+      <outline type="rss" text="Russell Street Report" title="Russell Street Report" xmlUrl="https://russellstreetreport.com/feed/" htmlUrl="https://russellstreetreport.com/" />
+      <outline type="rss" text="Cleveland.com Browns" title="Cleveland.com Browns" xmlUrl="https://www.cleveland.com/arc/outboundfeeds/rss/category/browns/?outputType=xml" htmlUrl="https://www.cleveland.com/browns/" />
+      <outline type="rss" text="MLive Lions" title="MLive Lions" xmlUrl="https://www.mlive.com/arc/outboundfeeds/rss/category/lions/?outputType=xml" htmlUrl="https://www.mlive.com/lions/" />
+      <outline type="rss" text="MassLive Patriots" title="MassLive Patriots" xmlUrl="https://www.masslive.com/arc/outboundfeeds/rss/category/patriots/?outputType=xml" htmlUrl="https://www.masslive.com/patriots/" />
+      <outline type="rss" text="NJ.com Giants" title="NJ.com Giants" xmlUrl="https://www.nj.com/arc/outboundfeeds/rss/category/giants/?outputType=xml" htmlUrl="https://www.nj.com/giants/" />
+      <outline type="rss" text="NJ.com Jets" title="NJ.com Jets" xmlUrl="https://www.nj.com/arc/outboundfeeds/rss/category/jets/?outputType=xml" htmlUrl="https://www.nj.com/jets/" />
+      <outline type="rss" text="Seattle Times Seahawks" title="Seattle Times Seahawks" xmlUrl="https://www.seattletimes.com/sports/seahawks/feed/" htmlUrl="https://www.seattletimes.com/sports/seahawks/" />
+      <outline type="rss" text="NY Post Giants" title="NY Post Giants" xmlUrl="https://nypost.com/sports/giants/feed/" htmlUrl="https://nypost.com/sports/giants/" />
+      <outline type="rss" text="NY Post Jets" title="NY Post Jets" xmlUrl="https://nypost.com/sports/jets/feed/" htmlUrl="https://nypost.com/sports/jets/" />
+      <outline type="rss" text="Pewter Report" title="Pewter Report" xmlUrl="https://www.pewterreport.com/feed/" htmlUrl="https://www.pewterreport.com/" />
+      <outline type="rss" text="Chicago Sun-Times Bears" title="Chicago Sun-Times Bears" xmlUrl="https://chicago.suntimes.com/rss/bears/index.xml" htmlUrl="https://chicago.suntimes.com/bears" />
+      <outline type="rss" text="Buffalo News Bills" title="Buffalo News Bills" xmlUrl="https://buffalonews.com/search/?f=rss&amp;t=article&amp;c=sports/bills&amp;l=50&amp;s=start_time&amp;sd=desc" htmlUrl="https://buffalonews.com/sports/bills/" />
+      <outline type="rss" text="LA Times Rams" title="LA Times Rams" xmlUrl="https://www.latimes.com/sports/rams/rss2.0.xml" htmlUrl="https://www.latimes.com/sports/rams" />
+      <outline type="rss" text="LA Times Chargers" title="LA Times Chargers" xmlUrl="https://www.latimes.com/sports/chargers/rss2.0.xml" htmlUrl="https://www.latimes.com/sports/chargers" />
+      <outline type="rss" text="NFL Daily with Gregg Rosenthal" title="NFL Daily with Gregg Rosenthal" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ce11dad-e86a-444f-ba83-ae27003475be/deff018f-4b51-4501-937c-ae27003475d1/podcast.rss" htmlUrl="https://www.nfl.com/podcasts/around-the-nfl" />
+      <outline type="rss" text="The Adam Schefter Podcast" title="The Adam Schefter Podcast" xmlUrl="https://feeds.megaphone.fm/ESP3620980398" htmlUrl="https://www.espn.com/" />
+      <outline type="rss" text="The Mina Kimes Show featuring Lenny" title="The Mina Kimes Show featuring Lenny" xmlUrl="https://feeds.megaphone.fm/ESP8957020927" htmlUrl="https://www.espn.com/" />
+      <outline type="rss" text="Fantasy Focus Football" title="Fantasy Focus Football" xmlUrl="https://feeds.megaphone.fm/ESP7699980268" htmlUrl="https://www.espn.com/" />
+      <outline type="rss" text="The Athletic Football Show" title="The Athletic Football Show" xmlUrl="https://feeds.acast.com/public/shows/681cc905bdc60241406b737f" htmlUrl="https://theathletic.com/podcast/" />
+      <outline type="rss" text="Scoop City: Inside The NFL" title="Scoop City: Inside The NFL" xmlUrl="https://feeds.acast.com/public/shows/6818bda3f30c20bff73d3241" htmlUrl="https://theathletic.com/podcast/" />
+      <outline type="rss" text="The MMQB NFL Podcast" title="The MMQB NFL Podcast" xmlUrl="https://feeds.redcircle.com/657eadb5-0ff6-4914-896b-0a076d777876" htmlUrl="https://www.si.com/nfl" />
+      <outline type="rss" text="NFL Spotlight w/ Ari Meirov" title="NFL Spotlight w/ Ari Meirov" xmlUrl="https://feeds.megaphone.fm/nflspotlight" htmlUrl="https://www.the33rdteam.com/" />
+      <outline type="rss" text="PFT Live with Mike Florio" title="PFT Live with Mike Florio" xmlUrl="https://www.omnycontent.com/d/playlist/006cbbeb-1b7a-4729-b380-b3df0127e8db/8e6865a3-daf5-49de-ab9f-b3df013312cd/bc6b5015-6def-4f8d-aee5-b3df013312d5/podcast.rss" htmlUrl="https://www.nbcsports.com/nfl/profootballtalk" />
+      <outline type="rss" text="PFT PM" title="PFT PM" xmlUrl="https://www.omnycontent.com/d/playlist/006cbbeb-1b7a-4729-b380-b3df0127e8db/f3b09715-6de9-4fc5-9441-b3df0134b61f/6b10fd14-873c-4c54-9a31-b3df0134b625/podcast.rss" htmlUrl="https://www.nbcsports.com/nfl/profootballtalk" />
+      <outline type="rss" text="The Ringer NFL Show" title="The Ringer NFL Show" xmlUrl="https://feeds.megaphone.fm/the-ringer-nfl-show" htmlUrl="https://www.theringer.com/nfl" />
+      <outline type="rss" text="Move the Sticks" title="Move the Sticks" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0e61fe66-e985-446f-bc46-ae27003599da/c1b3eaa8-db6b-4865-ac29-ae27003599f6/podcast.rss" htmlUrl="https://www.nfl.com/podcasts/move-the-sticks" />
+      <outline type="rss" text="Heed the Call" title="Heed the Call" xmlUrl="https://feeds.megaphone.fm/heedthecall" htmlUrl="https://www.underdogfantasy.com/" />
+    </outline>
+  </body>
+</opml>
