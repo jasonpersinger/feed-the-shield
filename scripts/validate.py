@@ -16,6 +16,7 @@ from __future__ import annotations
 import argparse
 import email.utils
 import sys
+import time
 import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -147,6 +148,12 @@ def validate_one_feed(
             if not 200 <= status <= 299:
                 errors = [f"{label}: HTTP {status}"]
                 continue
+            if not content.strip():
+                errors = [f"{label}: empty response body from HTTP {status}"]
+                if attempt <= retries:
+                    time.sleep(2 * attempt)
+                    continue
+                return errors, warnings
             feed_type, item_count, newest = parse_feed(content)
             if item_count == 0:
                 return [f"{label}: {feed_type} feed has no items"], warnings
@@ -165,11 +172,11 @@ def validate_one_feed(
             errors = [f"{label}: timed out"]
         except ET.ParseError as exc:
             errors = [f"{label}: XML parse error: {exc}"]
-            break
         except Exception as exc:
             errors = [f"{label}: {type(exc).__name__}: {exc}"]
 
         if attempt <= retries:
+            time.sleep(2 * attempt)
             continue
 
     return errors, warnings

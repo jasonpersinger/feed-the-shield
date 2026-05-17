@@ -25,4 +25,4 @@ jobs:
           python-version: "3.x"
 
       - name: Validate OPML files
-        run: python3 scripts/validate.py --timeout 25 --max-age-days 120
+        run: python3 scripts/validate.py --timeout 25 --retries 3 --workers 4 --max-age-days 120
