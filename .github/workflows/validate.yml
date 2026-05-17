@@ -9,6 +9,9 @@ on:
     - cron: "23 10 * * 1"
   workflow_dispatch:
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   validate:
     runs-on: ubuntu-latest
@@ -23,4 +26,3 @@ jobs:
 
       - name: Validate OPML files
         run: python3 scripts/validate.py --timeout 25 --max-age-days 120
-
