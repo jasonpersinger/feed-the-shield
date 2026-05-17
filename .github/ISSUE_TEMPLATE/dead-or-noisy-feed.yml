@@ -1,0 +1,42 @@
+name: Dead or noisy feed
+description: Report an empty, broken, duplicate, stale, or low-quality feed.
+title: "Feed issue: "
+labels:
+  - feed-maintenance
+body:
+  - type: input
+    id: feed
+    attributes:
+      label: Feed URL
+      description: Paste the feed URL from the OPML.
+      placeholder: https://example.com/feed.xml
+    validations:
+      required: true
+  - type: dropdown
+    id: issue_type
+    attributes:
+      label: Issue type
+      options:
+        - Dead or unreachable
+        - Empty feed
+        - Stale feed
+        - Duplicate feed
+        - Too noisy or off-topic
+        - Better replacement available
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Include what you observed, when you checked, and any replacement feed you recommend.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Quick checks
+      options:
+        - label: I checked that the replacement source, if any, is public and exposes RSS, Atom, or podcast RSS.
+        - label: I checked that the issue is not only a temporary outage.
+

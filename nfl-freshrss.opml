@@ -51,7 +51,7 @@
         <outline text="Adam Schefter - see Podcasts: The Adam Schefter Podcast" title="Adam Schefter - see Podcasts: The Adam Schefter Podcast" />
         <outline text="Dianna Russini - see Podcasts: Scoop City: Inside The NFL" title="Dianna Russini - see Podcasts: Scoop City: Inside The NFL" />
         <outline text="Ari Meirov - see Podcasts: NFL Spotlight w/ Ari Meirov" title="Ari Meirov - see Podcasts: NFL Spotlight w/ Ari Meirov" />
-        <outline text="Mike Florio - see League News: ProFootballTalk and Podcasts: PFT Live / PFT PM" title="Mike Florio - see League News: ProFootballTalk and Podcasts: PFT Live / PFT PM" />
+        <outline text="Mike Florio - see League News: ProFootballTalk and Podcasts: PFT Live" title="Mike Florio - see League News: ProFootballTalk and Podcasts: PFT Live" />
         <outline text="Field Yates - see Podcasts: Fantasy Focus Football" title="Field Yates - see Podcasts: Fantasy Focus Football" />
         <outline text="Mary Kay Cabot - see Local Beat Coverage: Cleveland.com Browns" title="Mary Kay Cabot - see Local Beat Coverage: Cleveland.com Browns" />
         <outline text="Bob Condotta - see Local Beat Coverage: Seattle Times Seahawks" title="Bob Condotta - see Local Beat Coverage: Seattle Times Seahawks" />
@@ -80,7 +80,6 @@
       <outline text="Analysis" title="Analysis">
         <outline type="rss" text="PFF" title="PFF" xmlUrl="https://www.pff.com/feed" htmlUrl="https://www.pff.com/nfl" />
         <outline type="rss" text="Sharp Football Analysis" title="Sharp Football Analysis" xmlUrl="https://www.sharpfootballanalysis.com/feed/" htmlUrl="https://www.sharpfootballanalysis.com/" />
-        <outline type="rss" text="The 33rd Team" title="The 33rd Team" xmlUrl="https://www.the33rdteam.com/feed/" htmlUrl="https://www.the33rdteam.com/" />
       </outline>
       <outline text="Team News" title="Team News">
         <outline type="rss" text="Revenge of the Birds" title="Revenge of the Birds" xmlUrl="https://www.revengeofthebirds.com/rss/current.xml" htmlUrl="https://www.revengeofthebirds.com/" />
@@ -125,8 +124,6 @@
         <outline type="rss" text="NJ.com Giants" title="NJ.com Giants" xmlUrl="https://www.nj.com/arc/outboundfeeds/rss/category/giants/?outputType=xml" htmlUrl="https://www.nj.com/giants/" />
         <outline type="rss" text="NJ.com Jets" title="NJ.com Jets" xmlUrl="https://www.nj.com/arc/outboundfeeds/rss/category/jets/?outputType=xml" htmlUrl="https://www.nj.com/jets/" />
         <outline type="rss" text="Seattle Times Seahawks" title="Seattle Times Seahawks" xmlUrl="https://www.seattletimes.com/sports/seahawks/feed/" htmlUrl="https://www.seattletimes.com/sports/seahawks/" />
-        <outline type="rss" text="NY Post Giants" title="NY Post Giants" xmlUrl="https://nypost.com/sports/giants/feed/" htmlUrl="https://nypost.com/sports/giants/" />
-        <outline type="rss" text="NY Post Jets" title="NY Post Jets" xmlUrl="https://nypost.com/sports/jets/feed/" htmlUrl="https://nypost.com/sports/jets/" />
         <outline type="rss" text="Pewter Report" title="Pewter Report" xmlUrl="https://www.pewterreport.com/feed/" htmlUrl="https://www.pewterreport.com/" />
         <outline type="rss" text="Chicago Sun-Times Bears" title="Chicago Sun-Times Bears" xmlUrl="https://chicago.suntimes.com/rss/bears/index.xml" htmlUrl="https://chicago.suntimes.com/bears" />
         <outline type="rss" text="Buffalo News Bills" title="Buffalo News Bills" xmlUrl="https://buffalonews.com/search/?f=rss&amp;t=article&amp;c=sports/bills&amp;l=50&amp;s=start_time&amp;sd=desc" htmlUrl="https://buffalonews.com/sports/bills/" />
@@ -143,7 +140,6 @@
         <outline type="rss" text="The MMQB NFL Podcast" title="The MMQB NFL Podcast" xmlUrl="https://feeds.redcircle.com/657eadb5-0ff6-4914-896b-0a076d777876" htmlUrl="https://www.si.com/nfl" />
         <outline type="rss" text="NFL Spotlight w/ Ari Meirov" title="NFL Spotlight w/ Ari Meirov" xmlUrl="https://feeds.megaphone.fm/nflspotlight" htmlUrl="https://www.the33rdteam.com/" />
         <outline type="rss" text="PFT Live with Mike Florio" title="PFT Live with Mike Florio" xmlUrl="https://www.omnycontent.com/d/playlist/006cbbeb-1b7a-4729-b380-b3df0127e8db/8e6865a3-daf5-49de-ab9f-b3df013312cd/bc6b5015-6def-4f8d-aee5-b3df013312d5/podcast.rss" htmlUrl="https://www.nbcsports.com/nfl/profootballtalk" />
-        <outline type="rss" text="PFT PM" title="PFT PM" xmlUrl="https://www.omnycontent.com/d/playlist/006cbbeb-1b7a-4729-b380-b3df0127e8db/f3b09715-6de9-4fc5-9441-b3df0134b61f/6b10fd14-873c-4c54-9a31-b3df0134b625/podcast.rss" htmlUrl="https://www.nbcsports.com/nfl/profootballtalk" />
         <outline type="rss" text="The Ringer NFL Show" title="The Ringer NFL Show" xmlUrl="https://feeds.megaphone.fm/the-ringer-nfl-show" htmlUrl="https://www.theringer.com/nfl" />
         <outline type="rss" text="Move the Sticks" title="Move the Sticks" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0e61fe66-e985-446f-bc46-ae27003599da/c1b3eaa8-db6b-4865-ac29-ae27003599f6/podcast.rss" htmlUrl="https://www.nfl.com/podcasts/move-the-sticks" />
         <outline type="rss" text="Heed the Call" title="Heed the Call" xmlUrl="https://feeds.megaphone.fm/heedthecall" htmlUrl="https://www.underdogfantasy.com/" />

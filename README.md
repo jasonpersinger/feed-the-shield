@@ -36,6 +36,8 @@ FreshRSS may ignore non-feed OPML notes. The categorized file includes a small m
 
 - `nfl-freshrss-flat.opml`: recommended import file. All feeds are directly under one `NFL` category.
 - `nfl-freshrss.opml`: categorized import file with nested OPML folders.
+- `sources.csv`: human-readable source inventory with category, feed URL, site URL, and notes.
+- `scripts/validate.py`: dependency-free OPML/feed validator used for local checks and GitHub Actions.
 
 ## Source Policy
 
@@ -59,25 +61,24 @@ Excluded sources include:
 
 Feeds can break or go empty over time. If you notice a dead, empty, noisy, or duplicated feed, open an issue or submit a pull request.
 
-Before committing changes, validate the OPML and check for duplicate feed URLs:
+Before committing changes, validate the OPML files:
 
 ```bash
-python3 - <<'PY'
-import xml.etree.ElementTree as ET
-from collections import Counter
-
-for path in ["nfl-freshrss-flat.opml", "nfl-freshrss.opml"]:
-    root = ET.parse(path).getroot()
-    urls = [node.attrib["xmlUrl"] for node in root.iter("outline") if "xmlUrl" in node.attrib]
-    duplicates = [url for url, count in Counter(urls).items() if count > 1]
-    print(f"{path}: {len(urls)} feeds, {len(duplicates)} duplicate URLs")
-    if duplicates:
-        for url in duplicates:
-            print(f"  duplicate: {url}")
-PY
+python3 scripts/validate.py
 ```
+
+The validator checks XML validity, duplicate feed URLs, HTTP status, RSS/Atom parsing, empty feeds, and whether feeds have recent dated items. For a quick local structure-only check, run:
+
+```bash
+python3 scripts/validate.py --no-network
+```
+
+A GitHub Actions workflow runs the same validator on pushes, pull requests, manual dispatch, and weekly on Mondays.
 
 ## Current Notes
 
 The list intentionally avoids Twitter/X-only NFL insiders unless a stable, legal, public feed endpoint exists. Some reporters are covered indirectly through verified outlet feeds or podcast feeds instead of personal RSS feeds.
 
+## License
+
+This project is dedicated to the public domain under CC0 1.0 Universal. See `LICENSE`.
